@@ -4,8 +4,8 @@ debug: false
 
 mongodb:
   server:   mongodb
-  database: mongo-uptime
-  user:     root 
+  database: uptime
+  user:     mongo-uptime
   password: X!3n^59D9MU8
   connectionString: # mongodb://mongodb/uptime      # alternative to setting server, database, user and password separately
 
